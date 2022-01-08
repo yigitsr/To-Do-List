@@ -2,4 +2,4 @@
 
 MIT License
 
-Live demo : https://jqtodolist.netlify.app
+Live preview : https://jqtodolist.netlify.app
